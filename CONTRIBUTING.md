@@ -4,4 +4,4 @@ Here's a few guidelines for contributing to this repo:
 * Do not make a pull request proposing support for CommonJS.
 
 Join our Discord server for updates on this package and any other packages by me.
-[Discord](https://discord.gg/Erf8yj3JP5)
+[Discord](https://discord.gg/Ess9VJKYEZ)
